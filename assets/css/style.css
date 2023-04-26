@@ -186,6 +186,7 @@ p {
 
 .description {
     font: 16px/24px Arial, sans-serif;
+    margin-top: 30px !important;
     margin-bottom: 24px;
     height: 72px;
     overflow: hidden;
@@ -203,30 +204,6 @@ p {
 
 .box:hover:after {
     opacity: 0.7;
-}
-
-.interactive {
-    display: flex;
-}
-
-.interactive .item svg {
-    flex-shrink: 0;
-    margin-right: 10px;
-    border-radius: 50%;
-    width: 24px;
-    height: 24px;
-    fill: #fff;
-}
-
-.interactive .item {
-    display: flex;
-    align-items: center;
-    width: 50%;
-    font-size: 14px;
-}
-
-.interactive .item:last-child {
-    justify-content: flex-end;
 }
 
 .box:before {
