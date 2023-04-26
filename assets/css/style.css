@@ -329,7 +329,7 @@ header .itemm .cover {
     height: 100%;
     top: 0;
     left: 0;
-    background: rgba(0, 0, 0, 0.6);
+    background: linear-gradient(#ff575a67 0%, #44af69a1 100%);
     display: flex;
     align-items: center;
 }
