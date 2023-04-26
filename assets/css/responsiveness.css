@@ -1,0 +1,15 @@
+@media only screen and (max-width:768px) {
+    .index_hamaliya{
+        font-size: 21px !important;
+    }
+}
+@media only screen and (max-width:425px) {
+    .AL_MADINA_index{
+        font-size: 35px !important;
+    }
+}
+@media only screen and (max-width:320px) {
+    .AL_MADINA_index{
+        font-size: 30px !important;
+    }
+}
